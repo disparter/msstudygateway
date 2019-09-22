@@ -115,6 +115,11 @@
     </dependencyManagement>
 
     <dependencies>
+	    <dependency>
+		    <groupId>javax.cache</groupId>
+		    <artifactId>cache-api</artifactId>
+		</dependency>
+		    
         <dependency>
             <groupId>io.github.jhipster</groupId>
             <artifactId>jhipster-framework</artifactId>
