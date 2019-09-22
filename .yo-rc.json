@@ -1,0 +1,37 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.github.disparter.msstudygateway"
+    },
+    "jhipsterVersion": "6.1.2",
+    "applicationType": "gateway",
+    "baseName": "msstudygateway",
+    "packageName": "com.github.disparter.msstudygateway",
+    "packageFolder": "com/github/disparter/msstudygateway",
+    "serverPort": "8280",
+    "authenticationType": "jwt",
+    "cacheProvider": "no",
+    "enableHibernateCache": false,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "postgresql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": "eureka",
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "MzRhMTY5ZmY4MTY2NjdhMjYzNDM5Yjg2NzlkM2JkMjMwZTA4YjQzZTI4NTE2Y2YwNTdlZGY0ZTgxZmM0YTU0MGM2ODhiNmNkYTQ2NGUyNzUyOGQ4ODU4NDBiMzAyOGY3YWZjZGZhMjZiZmY2Njg2MGIzZGI5ZjFjMjkxZDM2NmI=",
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "clientFramework": "angularX",
+    "clientTheme": "none",
+    "clientThemeVariant": "",
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": false
+  }
+}
