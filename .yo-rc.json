@@ -1,7 +1,8 @@
 {
   "generator-jhipster": {
     "promptValues": {
-      "packageName": "com.github.disparter.msstudygateway"
+      "packageName": "com.github.disparter.msstudygateway",
+      "microservicePath": "../msstudy"
     },
     "jhipsterVersion": "6.1.2",
     "applicationType": "gateway",
